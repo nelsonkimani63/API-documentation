@@ -12,13 +12,13 @@ _GET_ surfreport/`{beachId}`
 
 Gets the surf conditions for a specific beach ID.
 
-_POST_
+**_POST_**
 
-_PUT_
+**_PUT_**
 
-_PATCH_
+**_PATCH_**
 
-_DELETE_ 
+**_DELETE_**
 
 ## Parameters
 
