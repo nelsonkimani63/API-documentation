@@ -50,9 +50,9 @@ Gets the surf conditions for a specific beach ID.
 
 ## Request Example
 
-## Response Example and Schema
 
-### Code sample
+
+### Request sample
 
 ```
 curl -I -X GET "https://api.openweathermap.org/data/2.5/surfreport?zip=95050&appid=APIKEY&units=imperial&days=2"
@@ -60,7 +60,8 @@ curl -I -X GET "https://api.openweathermap.org/data/2.5/surfreport?zip=95050&app
 
 (In the above code, replace `APIKEY` with your actual API key.)
 
- ### Sample response
+## Response Example and Schema
+### Sample response
 
 ```
  {
