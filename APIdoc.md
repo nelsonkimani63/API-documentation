@@ -1,6 +1,6 @@
 
 
-# Surfreport API Reference Tutorial
+# Surfreport API Reference 
 
 ## Resource Description
 Contains information about the surfing conditions, including the surf height, water temperature, wind, and tide. Also provides an overall recommendation about whether to go surfing or not in a particular day.
